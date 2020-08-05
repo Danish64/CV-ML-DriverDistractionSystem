@@ -39,7 +39,7 @@ c9: talking to a passenger
  
 The dataset contains a total of 102150 images split into a training set of 22424 images and a testing set of 79726 images.
 
-# Input
+# Input 
 
 ![First Test Image](https://github.com/Danish64/CV-ML-DriverDistractionSystem/blob/master/InputOutputImages/Input1.PNG)
 
