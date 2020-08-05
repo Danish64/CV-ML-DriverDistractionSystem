@@ -14,9 +14,6 @@ numpy 1.12.1
 According to the CDC motor vehicle safety division, one in five car accidents is caused by a distracted driver. Sadly, this translates to 425,000 people injured and 3,000 people killed by distracted driving every year.
 In this project, we have created and refined machine learning models to detect what the driver is doing in a car given driver images. This is done by predicting the likelihood of what the driver is doing in each picture.
 
-![Overview Image](https://github.com/Danish64/CV-ML-DriverDistractionSystem/blob/master/InputOutputImages/Driver Distraction Detecting System.png)
-
-
 # Problem Statement
 In order to improve the alarming statistics states in the project overview section, innovative methods should be tested. One such method would be to develop an algorithm to detect drivers engaging in distracted behaviours by feeding it 2D dashboard camera images. This algorithm can then be used as an API in a device to classify the driver’s behaviour by checking if they are driving attentively, wearing their seatbelt and remind them if they are not.
 The dataset provided by State Farm consists of images, which means that the most efficient way to tackle the problem at hand is to develop a deep convolutional neural network model and then train it on a training subset of the dataset with the objective to optimize a certain evaluation metric. The model will then be tested on a testing subset of the dataset and evaluated.
