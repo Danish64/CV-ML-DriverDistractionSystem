@@ -1,4 +1,4 @@
-#Check DistractionDetection Prediction Notebook (Main Work)
+# Check DistractionDetection Prediction Notebook (Main Work)
 # Distracted-Driver-Detection
 # Abstract
 The objective of this work is to successfully predict the likelihood of what a driver is doing in each of the pictures in the dataset.
